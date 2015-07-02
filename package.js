@@ -1,7 +1,7 @@
 Package.describe({
   name: 'meteorhacks:js-pipes',
   summary: 'MongoDB aggregation pipeline implementation in JavaScript',
-  version: '1.1.0',
+  version: '1.1.1',
   git: 'https://github.com/meteorhacks/meteor-js-pipes.git'
 });
 
